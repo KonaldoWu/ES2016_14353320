@@ -59,7 +59,13 @@
 * 记录当前的工作路径
 ![](http://oepww4mce.bkt.clouddn.com/16-10-8/80678148.jpg)
 ![](http://oepww4mce.bkt.clouddn.com/16-10-8/36951402.jpg)
+
+
+
 ## 编译dol
+
+
+
 * 修改build_zip.xml文件
 * ![](http://oepww4mce.bkt.clouddn.com/16-10-8/577667.jpg)
 
