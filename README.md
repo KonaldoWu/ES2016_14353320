@@ -12,8 +12,17 @@
 ![](http://oepww4mce.bkt.clouddn.com/16-10-8/73559168.jpg)
 * sudo apt-get install openjdk-7-jdk
 ![](http://oepww4mce.bkt.clouddn.com/16-10-8/78103112.jpg)
-* sudo apt-get install unzip
-![](http://oepww4mce.bkt.clouddn.com/16-10-8/4180726.jpg)
+
+
+
+
+*sudo apt-get install unzip
+
+
+
+
+
+*![](http://oepww4mce.bkt.clouddn.com/16-10-8/4180726.jpg)
 
 
 ## 下载文件
